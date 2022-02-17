@@ -14,6 +14,6 @@ Automation tests for the API provided at https://petstore.swagger.io/
 * `utils` - common utilities.
 * `resources` - configuration files.
 
-##Test execution in CMD:
+## Test execution in CMD:
 Run `./gradlew clean test`
 
