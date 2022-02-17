@@ -1,7 +1,7 @@
 # REST API Automation Tests
 Automation tests for the API provided at https://petstore.swagger.io/
 
-##Used:
+## Used:
   * Gradle
   * Rest Assured
   * JUnit 5
